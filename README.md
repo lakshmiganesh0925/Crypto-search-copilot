@@ -3,7 +3,6 @@
 A Retrieval-Augmented Generation (RAG) chatbot that answers crypto questions from three source types
 (**news articles, DAO governance proposals, whitepapers**), always with source links and publication dates.
 Built with **LangChain**, **Gemini**, **Qdrant Cloud**, **FastAPI** and **Next.js**.
-No Docker, no deployment: everything runs locally against hosted Gemini + Qdrant Cloud.
 
 ## Architecture
 
