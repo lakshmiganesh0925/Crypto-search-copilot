@@ -1,0 +1,16 @@
+# secrets
+.env
+.env.local
+# python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+# node
+node_modules/
+.next/
+# eval output
+backend/eval/results/*.json
+# os / editor
+.DS_Store
+.vscode/
